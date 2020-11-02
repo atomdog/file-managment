@@ -39,5 +39,4 @@ def sendmail(target, msg):
 	smtpgateway.sendmail("insertemailhere", target, msg)
 	smtpgateway.quit()
 
-#sendmail("8438197750@txt.att.net", "hello")
-#checkmail()
+
